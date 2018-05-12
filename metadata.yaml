@@ -13,6 +13,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/333
     wikipedia: http://en.wikipedia.org/wiki/Robert_Michael_Ballantyne
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/21732#Fort-Desolation--Red-Indians-and-Fur-Traders-of-Rupert-s-Land
 gutenberg_bookshelf: Children's Fiction
 gutenberg_issued: '2007-06-07'
 gutenberg_type: Text
